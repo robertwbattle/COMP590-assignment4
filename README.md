@@ -9,3 +9,6 @@ The player must shoot balls (by pressing trigger) at the walls to push them back
 If one of the walls touch you, the game goes back to the title screen.
 You can turn your head 360 degrees to see the walls, and you may use either controller to throw balls. 
 Balls are thrown from your eye. Holding down trigger for longer periods of time increases their velocity.
+
+# Demo video
+https://youtu.be/uk5GCM3ifCA
